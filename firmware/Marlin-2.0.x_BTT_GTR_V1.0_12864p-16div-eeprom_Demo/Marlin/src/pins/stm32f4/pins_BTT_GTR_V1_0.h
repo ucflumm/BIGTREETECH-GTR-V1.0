@@ -273,7 +273,6 @@
 
 #define HEATER_BED_PIN                      PA2   // Hotbed
 
-#define FAN_PIN                             PE5   // Fan0
 #define FAN1_PIN                            PE6   // Fan1
 #define FAN2_PIN                            PC8   // Fan2
 
@@ -281,7 +280,7 @@
 #define FAN4_PIN                            PE9   // Fan4
 #define FAN5_PIN                            PE11  // Fan5
 #define FAN6_PIN                            PC9   // Fan6
-#define FAN7_PIN                            PE14  // Fan7
+
 
 //
 // By default the onboard SD (SPI1) is enabled
