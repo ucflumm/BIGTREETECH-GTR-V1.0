@@ -110,11 +110,11 @@
   #define E1_CS_PIN                         PD4
 #endif
 
-#define E2_STEP_PIN                         PD1
-#define E2_DIR_PIN                          PD0
-#define E2_ENABLE_PIN                       PD2
-#ifndef E2_CS_PIN
-  #define E2_CS_PIN                         PC12
+#define Z2_STEP_PIN                         PD1
+#define Z2_DIR_PIN                          PD0
+#define Z2_ENABLE_PIN                       PD2
+#ifndef Z2_CS_PIN
+  #define Z2_CS_PIN                         PC12
 #endif
 
 #define E3_STEP_PIN                         PF3
